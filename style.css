@@ -1,0 +1,31 @@
+body {
+  background-image: url('windmill.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+div {
+  width: 630px;
+  height: 320px;
+  border: 2px solid black;
+  background-color: white;
+  background-image: url('avocado.jpg');
+  background-repeat: repeat-y;
+  overflow: scroll;
+}
+
+.satu {
+  text-align: right;
+  font-weight: bold;
+  color: blue;
+}
+
+.dua {
+  text-align: left;
+  color: green;
+}
+
+.tiga {
+  text-align: center;
+  color: red;
+}
